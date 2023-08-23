@@ -73,4 +73,4 @@ I feel the work was pretty straightforward with nothing to really change. If any
 
 ## Self-Evaluation:
 Out of 20 points for this assignment, I should get .... points
-<!-- I believe I should get 20/20 points for this assignment. I followed the guidelines and submitted the necessary files/commits -->
+I believe I should get 20/20 points for this assignment. I followed the guidelines and submitted the necessary files/commits
