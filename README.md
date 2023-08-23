@@ -67,7 +67,7 @@ Examples for how you can reflect on this assignment
 * How long did it take you to complete the assignment?
 <!-- This assignment took me about 5-10 minutes. -->
 * What do you think of this completion time?
-<!-- I think this is standard for me since I'm accustomed to using Git/GitHub -->
+I think this is standard for me since I'm accustomed to using Git/GitHub
 * With hindsight, what would you do differently getting started with this assignments, now that you know what you know? 
 <!-- I feel the work was pretty straightforward with nothing to really change. If anything, see if there are other git commands that do similar functions. -->
 
